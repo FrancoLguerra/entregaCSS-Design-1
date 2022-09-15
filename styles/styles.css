@@ -69,7 +69,10 @@ aside{
 }
 .contenido >p{
     text-indent: 10px;
-
+    
+}
+.contenido > p >a{
+    color: blue;
 }
 a{
     text-decoration: none;
