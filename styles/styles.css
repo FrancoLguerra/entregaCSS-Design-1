@@ -30,12 +30,20 @@ flex-wrap: wrap;
     
 }
 
+.background-header > h1{
+    font-size: 60px;
+    font-style:italic;
+    font-family:cursive;
+}
+
+
 .div-inferior-header{
     background-color: black;
     color: white;
     width: 100%;
     text-align: center;
     padding: 8px, 0px;
+    font-family:cursive;
 }
 aside{
    width:15%;
@@ -49,16 +57,19 @@ aside{
 }
 .link{
    margin-bottom: 50px;
+   font-family:cursive;
 }
 .contenido{
     margin-left: 100px;
     padding-right: 150px;
 }
-.contenido >p{
-    text-indent: 10px;
-}
 .contenido h3{
     font-style: italic;
+    font-family:cursive;
+}
+.contenido >p{
+    text-indent: 10px;
+
 }
 a{
     text-decoration: none;
